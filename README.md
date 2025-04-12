@@ -4,10 +4,6 @@ Optimization and replication of noise_step.
 In terms of results, it's very bad.
 Perhaps I need to rethink its purpose
 
-Some optimizations and reproductions of noise_step.
-In terms of results, it's very bad.
-Maybe I need to rethink its use
-
 Use it directly in colab.
 ﻿
 ## Update
