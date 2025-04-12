@@ -1,6 +1,6 @@
 # noise_step
 
-Optimization and replication of noises_step.
+Optimization and replication of noise_step.
 In terms of results, it's very bad.
 Perhaps I need to rethink its purpose
 
